@@ -16,7 +16,7 @@ import asyncio
 # 1. 模型配置（DeepSeek 官方，OpenAI 兼容协议）
 #    也可以改用课程里的 dashscope / qwen-max：把 BASE_URL 与 MODEL 换掉即可
 # ---------------------------------------------------------------------------
-os.environ.setdefault("OPENAI_API_KEY", "sk-9a390d6f61334682976c541ed77898bf")
+os.environ.setdefault("OPENAI_API_KEY", "sk-9a390d6f613topabu2976c541ed77898bf")
 os.environ.setdefault("OPENAI_BASE_URL", "https://api.deepseek.com")
 
 from agents import Agent, Runner
