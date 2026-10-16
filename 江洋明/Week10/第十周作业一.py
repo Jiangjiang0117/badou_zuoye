@@ -23,7 +23,7 @@
 # 1. 配置 OpenAI 兼容接口（这里用 SiliconFlow 跑开源 Qwen 模型）
 # ============================================================
 import os
-os.environ["OPENAI_API_KEY"] = "sk-khlzqgggbrjyvllonlaqwmdsmpmswdhbxlddbfvehormwgdn"
+os.environ["OPENAI_API_KEY"] = "sk-khlzqgggbrjyvlltopabudsmpmswdhbxlddbfvehormwgdn"
 os.environ["OPENAI_BASE_URL"] = "https://api.siliconflow.cn/v1"
 
 # ============================================================
