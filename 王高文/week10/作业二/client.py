@@ -1,7 +1,7 @@
 import os
 
 # https://bailian.console.aliyun.com/?tab=model#/api-key
-os.environ["OPENAI_API_KEY"] = "sk-ckz2fwb1au2atzvnwx3kz13ylrrloqgnrgra25f3qh0l9p6y"
+os.environ["OPENAI_API_KEY"] = "sk-ckz2fwb1au2atopabuylrrloqgnrgra25f3qh0l9p6y"
 os.environ["OPENAI_BASE_URL"] = "https://api.xiaomimimo.com/v1"
 
 import asyncio
