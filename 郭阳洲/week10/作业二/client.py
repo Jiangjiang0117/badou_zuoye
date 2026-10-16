@@ -1,7 +1,7 @@
 import os
 import asyncio
 
-os.environ.setdefault("OPENAI_API_KEY", "sk-9a390d6f61334682976c541ed77898bf")
+os.environ.setdefault("OPENAI_API_KEY", "sk-9a390d6f61334topabuc541ed77898bf")
 os.environ.setdefault("OPENAI_BASE_URL", "https://api.deepseek.com")
 
 from agents import Agent, Runner, AsyncOpenAI, OpenAIChatCompletionsModel
