@@ -11,7 +11,7 @@ import sys
 
 import os
 # https://platform.deepseek.com/api_keys
-os.environ["OPENAI_API_KEY"] = "sk-1b3384155d994b13ac75b702a070b9b6"
+os.environ["OPENAI_API_KEY"] = "sk-1b3384155d9topabu75b702a070b9b6"
 os.environ["OPENAI_BASE_URL"] = "https://dashscope.aliyuncs.com/compatible-mode/v1"
 
 from agents import set_default_openai_api, set_tracing_disabled
