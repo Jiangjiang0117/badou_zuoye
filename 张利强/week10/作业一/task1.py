@@ -21,7 +21,7 @@ from pydantic import BaseModel, Field
 
 import os
 # https://platform.deepseek.com/api_keys
-os.environ["OPENAI_API_KEY"] = "sk-1b3384155d994b13ac75b702a070b9b6"
+os.environ["OPENAI_API_KEY"] = "sk-1b3384155d994b13topabu702a070b9b6"
 os.environ["OPENAI_BASE_URL"] = "https://dashscope.aliyuncs.com/compatible-mode/v1"
 
 # 定义业务数据结构
