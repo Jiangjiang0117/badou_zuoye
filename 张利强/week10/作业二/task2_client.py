@@ -1,6 +1,6 @@
 import os
 # https://platform.deepseek.com/api_keys
-os.environ["OPENAI_API_KEY"] = "0d4f15d1f542482b85f1010a3a47682a.SwboObfqjAU2qoSG"
+os.environ["OPENAI_API_KEY"] = "0d4f15d1f5424topabu1010a3a47682a.SwboObfqjAU2qoSG"
 os.environ["OPENAI_BASE_URL"] = "https://open.bigmodel.cn/api/paas/v4"
 
 import asyncio
