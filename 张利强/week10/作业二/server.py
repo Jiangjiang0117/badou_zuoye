@@ -75,5 +75,6 @@ def get_tel_info(tel_no: Annotated[str, "Tel phone number"]):
     except:
         return []
 
+# 启动： fastmcp run server.py --transport sse --port 8900
 if __name__ == "__main__":
     mcp.run(transport="sse", port=8900)
